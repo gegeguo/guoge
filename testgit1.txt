@@ -1,5 +1,4 @@
 guo
 ge
-guoge
-git is free software
+git is free software guoge
 git is version control system.
